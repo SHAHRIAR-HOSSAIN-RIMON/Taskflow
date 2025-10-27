@@ -1,0 +1,10 @@
+Django==5.2.7
+
+# APIs
+djangorestframework
+
+django-filter
+
+drf-spectacular
+
+django-cors-headers
